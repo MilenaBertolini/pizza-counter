@@ -1,0 +1,5 @@
+**Contador de pedaços de pizza**
+
+*Desenvolvido em HTML, CSS e JavaScript.*
+
+Site desenvolvido para entretenimento durante um rodízio de pizza com os amigos, colegas de trabalho, família e com quem você quiser.
