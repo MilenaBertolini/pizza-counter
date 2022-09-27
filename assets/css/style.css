@@ -36,7 +36,7 @@ h1 {
     width: 70%;
     height: 100%;
     /*background-color: rgba(242, 237, 209, 0.9);*/
-    min-height: 480px;
+    min-height: 1000px;
 }
 
 .counter-item{
@@ -90,4 +90,15 @@ h1 {
     padding: 0px;
     cursor: pointer;
     justify-content: space-evenly;
+}
+
+@media (max-width: 800px) {
+    .container {
+        width: 100%;
+    }
+
+    .box, .btn-home {
+        margin: 0;
+    }
+ 
 }
