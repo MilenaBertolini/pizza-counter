@@ -2,4 +2,6 @@
 
 *Desenvolvido em HTML, CSS e JavaScript.*
 
+Link: https://contador-pizza.netlify.app/
+
 Site desenvolvido para entretenimento durante um rodízio de pizza com os amigos, colegas de trabalho, família e com quem você quiser.
